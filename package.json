@@ -1,0 +1,14 @@
+{
+  "name": "spanish-quiz",
+  "version": "1.0.0",
+  "description": "Spanish Quiz Web Application",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -o"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

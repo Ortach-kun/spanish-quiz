@@ -1,11 +1,10 @@
 # Spanish Quiz Web Application
 
-A web-based Spanish quiz application with 37 multiple-choice questions to test your knowledge of Spanish grammar and vocabulary. All questions and answers include Turkish translations to help Turkish speakers learn Spanish.
+A web-based Spanish quiz application with 37 multiple-choice questions to test your knowledge of Spanish grammar and vocabulary.
 
 ## Features
 
 - 37 multiple-choice questions covering Spanish verb conjugations, gustar expressions, and vocabulary
-- Bilingual content with both Spanish and Turkish translations
 - Background music that plays while using the application (with toggle control)
 - Immediate feedback for correct and incorrect answers
 - Score tracking at the end of the quiz
@@ -48,9 +47,8 @@ To modify the styling, edit the `public/css/styles.css` file.
 
 ## Language Support
 
-This quiz features bilingual content in:
-- Spanish (original quiz content)
-- Turkish (translations for questions and answers)
+This quiz features content in:
+- Spanish (quiz content)
 
 ## License
 
